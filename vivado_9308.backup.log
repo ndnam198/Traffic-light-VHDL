@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu Aug 22 19:55:09 2019
+# Process ID: 9308
+# Current directory: A:/Documents/code/VivadoLab/Traffic_light_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1176 A:\Documents\code\VivadoLab\Traffic_light_1\Traffic_light_1.xpr
+# Log file: A:/Documents/code/VivadoLab/Traffic_light_1/vivado.log
+# Journal file: A:/Documents/code/VivadoLab/Traffic_light_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project A:/Documents/code/VivadoLab/Traffic_light_1/Traffic_light_1.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.2/data/ip'.
+open_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:10 . Memory (MB): peak = 865.641 ; gain = 135.125
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Aug 22 19:56:37 2019...

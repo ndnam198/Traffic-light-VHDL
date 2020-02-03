@@ -1,0 +1,1 @@
+-wto "060d0a8452dc46169c038a58749af754" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "traffic_light_7_tb_behav" "xil_defaultlib.traffic_light_7_tb" -log "elaborate.log" 

@@ -1,0 +1,15 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto 060d0a8452dc46169c038a58749af754 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot traffic_light_7_tb_behav xil_defaultlib.traffic_light_7_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.traffic_light_7 [traffic_light_7_default]
+Compiling architecture bench of entity xil_defaultlib.traffic_light_7_tb
+Built simulation snapshot traffic_light_7_tb_behav

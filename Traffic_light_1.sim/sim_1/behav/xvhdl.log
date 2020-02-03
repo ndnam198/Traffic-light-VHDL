@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "A:/Documents/Code_Simul/VivadoLab/Traffic_light_2/Traffic_light_1.srcs/sources_1/new/traffic_light_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity traffic_light_7
+INFO: [VRFC 10-163] Analyzing VHDL file "A:/Documents/Code_Simul/VivadoLab/Traffic_light_2/Traffic_light_1.srcs/sim_1/new/tb_traffic_light_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity traffic_light_7_tb
